@@ -20,4 +20,19 @@
 
 #first-row,#second-row,#third-row,#buttons {
     display: flex;
+    margin: 5px;
 }
+
+#first-name,#last-name,#email,#phone-number,#password,#confirm-password {
+    margin: 5px;
+}
+
+button {
+    background-color: rgb(16, 71, 16);
+    color: white;
+    border-radius: 4px;
+    width: 160px;
+    height: 40px;
+    margin: 10px;
+}
+
